@@ -10,13 +10,11 @@
 
 ## 🎯 About Me
 
-**Full-Stack Developer & Ops Lead** with 4+ years of experience building scalable Node.js, React & AWS platforms. I specialize in architecting robust solutions that deliver real business impact—like cutting deployment times by 75% and boosting user retention by 25%[2].
+**Full-Stack Developer & Ops Lead** with 4+ years of experience building scalable Node.js, React & AWS platforms. I specialize in architecting robust solutions that deliver real business impact—like cutting deployment times by 75% and boosting user retention by 25%.
 
-- 🔭 Currently working as **Full-Stack Developer at Yuyiii**
 - 🌱 Passionate about **Machine Learning, Cloud Architecture, and Real-time Systems**
 - 🎓 **B.Tech from IIITDM Jabalpur** (Neural Networks, Deep Learning, ML)
 - 💪 Former **Calisthenics Trainer** who loves data-driven fitness approaches
-- ⚡ Built an **EEG-based Brain-Computer Interface** with 85% accuracy
 
 ## 🛠️ Technical Arsenal
 
@@ -48,11 +46,11 @@
 
 ## 🏆 Key Achievements
 
-- 🚀 **Architected Yuyiii platform** serving 500+ active users with 20% faster onboarding[2]
-- ⚡ **Optimized file uploads** from 1.2s to 0.5s (58% improvement) handling 10,000+ daily uploads[2]
-- 📈 **Boosted user retention** from 72% to 90% using XGBoost churn prediction[2]
-- 🔧 **Reduced deployment time by 75%** with automated CI/CD pipelines[2]
-- 🎯 **Maintained 99.8% transaction success rate** with zero downtime[2]
+- 🚀 **Architected platform** serving 500+ active users with 20% faster onboarding.
+- ⚡ **Optimized file uploads** from 1.2s to 0.5s (58% improvement) handling 10,000+ daily uploads.
+- 📈 **Boosted user retention** from 72% to 90% using XGBoost churn prediction.
+- 🔧 **Reduced deployment time by 75%** with automated CI/CD pipelines.
+- 🎯 **Maintained 99.8% transaction success rate** with zero downtime.
 
 ## 🔥 Featured Projects
 
@@ -68,15 +66,11 @@
 - 25% conversion boost with geospatial filters
 - Real-time pricing logic and payment processing
 
-### 🧠 **EEG-Based BCI System** - Neural Signal Processing
-- **Python + TensorFlow + Signal Processing**
-- 85% accuracy in converting neural signals to text
-- Real-time processing pipeline for biomedical applications
 
 ## 📜 Certifications
 
-🏅 **AWS Certified Cloud Practitioner**[2]  
-🏅 **AWS Machine Learning Foundations**[2]
+🏅 **AWS Certified Cloud Practitioner**  
+🏅 **AWS Machine Learning Foundations**
 
 ## 📊 GitHub Stats
 
